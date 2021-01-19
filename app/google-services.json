@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153548947789",
+    "project_id": "appwatch-92dd0",
+    "storage_bucket": "appwatch-92dd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153548947789:android:d42f386be1e4bef261b704",
+        "android_client_info": {
+          "package_name": "com.example.appwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153548947789-c8db6bmhknbj5c2sgkjphni8pamh32gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRaol-EhhLXm9qKVOhrE18eXg_Z55puNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153548947789-c8db6bmhknbj5c2sgkjphni8pamh32gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
