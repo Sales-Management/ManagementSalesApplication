@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
     TextView fullName,email,phone,verifyMsg;
     FirebaseAuth fAuth;
     FirebaseFirestore fStore;
+
     String userId;
     Button resendCode;
     Button resetPassLocal,changeProfileImage;
